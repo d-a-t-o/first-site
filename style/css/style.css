@@ -1,0 +1,92 @@
+li{
+    display: inline;
+    padding-left: 150px;
+    font-size: 20px;
+}
+.first-item{
+    margin-left: 500px;
+}
+.line{
+    width: auto;
+    height: auto;
+    border: 1px solid black;
+}
+/*We made header and drew the line*/
+
+
+
+/*Here we arranged and styled images and text*/
+.images{
+    border: 2px solid grey;
+    width: 315px;
+    height: 400px;
+    padding: 20px;
+    margin-left: 30px;
+    padding-bottom: 80px;
+}
+.box {
+display: flex;
+padding-top: 10%;
+}
+.images1{
+    border: 2px solid grey;
+    width: 315px;
+    height: 400px;
+    padding: 20px;
+    margin-left: 400px;
+    padding-bottom: 80px;
+    
+}
+button{
+    border: 1px solid black;
+    height: 30px;
+    width: 100px;
+    margin: 145px;
+    margin-top: 20px;
+}
+
+.click{
+    margin-left: 655px;
+    
+}
+
+
+
+/*second page*/
+
+.articl{
+   border:1px solid white;
+   font-size: 30px;
+   margin-left: 850px;
+   margin-bottom: 100px;
+   margin-top: 150px;
+}
+
+.about{
+    border: 1px solid white;
+    font-size: 25px;
+    margin-left: 350px;
+}
+
+
+
+
+/*The third page*/
+.contact{
+    border: 1px solid white;
+    margin-left: 750px;
+    font-size: 35px;
+    margin-top: 150px;
+}
+
+.description{
+    border: 1px solid white;
+    height: auto;
+    width: 750px;
+    font-size: 30px;
+    margin-left: 380px;
+    margin-top: 40px;
+}
+
+
+
